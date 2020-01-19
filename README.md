@@ -26,19 +26,19 @@ There are 2 objects mainly in this case, herding dog and sheep. Dogs chase sheep
 
 * Snapshot of the number of sheep in sheepfold
 
-**Output**: the number of sheep in sheepfold at time t 
+    **Output**: the number of sheep in sheepfold at time t 
 
 * Temporal trend of the number of sheep
 
-**Output**: a time series chart of the number of sheep in sheepfold 
+    **Output**: a time series chart of the number of sheep in sheepfold 
 
 * The running distance of each dog
 
-**Output**: running distance [m] 
+    **Output**: running distance [m] 
 
 * Flow of sheep running into sheepfold
 
-**Output**: the number of sheep in a time interval [n sheep per cycle]
+    **Output**: the number of sheep in a time interval [n sheep per cycle]
 
 
 ## Scenarios
